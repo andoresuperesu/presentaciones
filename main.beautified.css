@@ -724,10 +724,9 @@ a.sidebar-archive-link:hover::before {
 @media (min-width: 64em) {
     .sidebar {
         position: absolute;
-        bottom: 0;
+        top: 0;
         left: auto;
         right: 0;
-        bottom: 0;
         width: 18rem;
         text-align: left
     }
