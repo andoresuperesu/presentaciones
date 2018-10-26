@@ -1,0 +1,71 @@
+Cómo Crear Proyectos Personales
+Lo lees en 5 Min.
+
+En múltiples ocasiones he comentado que una de las formas, en las que creo que puedes mejorar programando, es tener proyectos personales. Un proyecto personal no solo es una oportunidad de práctica, además es una oportunidad de conocer nuevas tecnologías y plataformas, o de formar una empresa; en este artículo te daré algunos consejos que pienso pueden servirte, para generar nuevas ideas y sobre todo para ayudarte a completarlas.
+
+Ideas pequeñas, no grandes.
+Contrario a la opinión popular, tener ideas grandes, no es el mejor plan. ¿Por qué? Aquí resumido en un solo tweet del fundador de Basecamp:
+
+
+DHH
+✔
+@dhh
+ "The longer it takes to develop, the less likely it is to launch”, @jasonfried
+
+9:58 - 22 may. 2016
+369
+242 personas están hablando de esto
+Información y privacidad de Twitter Ads
+Está perfectamente ok ser ambicioso y tener una idea grande, o escalable como nos gusta decir. Lo que hay que aprender es que no se va de 0 a gigante, un producto grande se crea a partir de cosas pequeñas. En una imagen, lo que estoy diciendo, se ve así:
+
+
+
+Trata de encontrar dos features claves para tu proyecto, desarróllalos y perfecciónalos... ** ¡Y LANZA! **. No esperes a tener todo lo demás que has soñado para tu proyecto, lanza, evalúa tu idea y a partir de ahí itera y mejora. Las ideas valen menos de lo que crees, lo que cuenta en el desarrollo de productos es la ejecución.
+
+Hecho es mejor que perfecto.
+Tu primer producto, o tus primeros productos, difícilmente serán lo suficientemente buenos, así que lánzalos. Si tu primer lanzamiento es perfecto y no tiene bugs, lanzaste demasiado tarde.
+
+Es mejor tener un producto imperfecto en producción, que tener uno perfecto en tu computadora, es ley. "Hecho es mejor que perfecto" es una frase que resume este sentir, no la dije yo, la dijo Sheryl Sandberg, COO en Facebook.
+
+Suele suceder que una buena idea muera porque siempre hubo "algo que hacer" antes de lanzar. Antes de lanzar quiero mejorar X, antes de lanzar quiero agregar Y. No cometas dicho error y lanza tu producto imperfecto, permite que la experiencia de los usuarios lo perfeccione.
+
+Haz una cosa bien, en lugar de muchas a medias.
+Este punto me suena a todas las personas que quieren hacer su propio Facebook, o peor aún, hacer su propio Facebook pero agregando X. Los productos que normalmente son exitosos, hacen una cosa bien, en lugar de muchas a medias... no somos Facebook y no tenemos más de 1,000,000,000 de usuarios como para tratar de meter todo en nuestra app.
+
+Si tu producto busca plomeros, diséñala para buscar plomeros, no para buscar plomeros, eléctricos, mecánicos, pintores, albañiles, etc. etc. Es mejor perfeccionar tu producto para hacer algo muy muy bien que todo mal, ojo, eso no significa que tus planes deban ser menos ambiciosos (revisar el punto 1), significa que los features extra pueden esperar, que tal vez nunca se hagan, o que su momento aún está por llegar.
+
+No tengo nada en contra de querer abarcar mucho, solo no creo que sea la forma actual de éxito. Pongamos un ejemplo, las redes sociales, ¿cuáles son las redes sociales que han podido hacerle ruido a Facebook? Instagram (tomar fotos), Snapchat (momentos al instante), Twitter (Mensajes cortos)... ahora pensemos en las que quisieron hacer ruido pero no pudieron, Google+, Ello, etc. ¿Cuál es la diferencia entre ambos casos? Los éxitos hacían una cosa muy bien, los fracasos hacían muchas cosas (unas bien y otras no tanto). Creo tanto en este punto, que recordemos que de Google+ salieron productos exitosos como Google Photos o Hangouts, productos que se movieron de una idea que quería cubrir todo, a una idea que hacía bien una sola cosa (manejar fotos o mandar mensajes).
+
+No trates de ser el resuelve todo, o el que todos aman, busca tu nicho, conócelo, domínalo y explótalo.
+
+Prueba nuevas tecnologías.
+No te cases con tu lenguaje o framework favorito, seguramente te decepcionará eventualmente, no hay herramienta mágica que resuelva todo. Intenta nuevas cosas.
+
+¿Cómo sé que herramienta es la mejor, si solo he programado en una? Es imposible, para ser honestos, no confío en un programador que solo ha escrito en un lenguaje. Hay teorías de reclutadores (las personas que los contratan) que hablan de contratar a personas que han probado tecnologías que no sean JAVA y C#, porque normalmente son estas las que te enseñan en la escuela, de modo que si sabes alguna otra, digamos Python, Ruby, Go, Elixir, hablan de que eres una persona autodidacta, que no se queda con lo poco que le enseñan, y que está dispuesto a cambiar la herramienta, conforme el trabajo lo amerita.
+
+Tener proyectos personales es una nueva oportunidad para actualizarte, para conocer y aprender nuevas cosas, para salir de tu zona de confort. No lograrás nada de esto, si siempre repites la tecnología.
+
+Sube tus cosas a producción.
+No faltará que busques un trabajo, te pidan un portafolio y digas "Es que todo está en mi computadora", se acabó, en ese momento se desacredita todo eso, el reclutador no estará revisando el código de tu computadora, no estarás levantando y cerrando servidores de tu laptop en plena entrevista; Tener un producto en tu computadora, no está tan lejos de no tenerlo.
+
+Hay un mundo de experiencia que se para entre que tu producto funciona en tu laptop, y entre que un usuario puede usarlo. Si nunca lanzas, o si nunca terminas, lo que creas, estás perdiéndote de todo ese mar de aprendizaje.
+
+Usualmente el dinero no es problema, Github tiene versiones gratis para alojar tu código, Heroku y OpenShift tienen planes de prueba para montar tu app web, hay hosting gratuitos (aunque a veces inseguros, ten cuidado), hay muchas pero muchas formas de tener tu app en producción, sin tener que invertir, inténtalo.
+
+En el caso de las apps móviles, sí hay una versión, personalmente creo que si te puedes dar el lujo de hacerla, hazla, nada habla mejor de un desarrollador en Android que un link a sus apps en la PlayStore.
+
+Soluciona tus problemas
+Quiero crear algo, ¿pero qué? Intenta descubrir patrones en tu vida que pueden ser automatizados, si todos los días generas un reporte en excel con ciertos datos y luego lo envías por correo a tu jefe, ¿no podría ser automatizado? Hazlo, es una oportunidad perfecta para un proyecto personal.
+
+¿No encuentras un sitio que haga bien lo que necesitas? Hazlo, también es una excelente oportunidad.
+
+Para exprimir más los resultados de este ejercicio, intenta que primero solucione tus problemas y luego que solucione el de muchas personas con un problema similar al tuyo. Probablemente primero solo genere el reporte que tu jefe quiere... pero ¿por qué no hacer que genere más tipos de reportes, distintos tipos de gráficas y envíe a múltiples correos electrónicos?
+
+Esta es una excelente forma de descubrir productos con el potencial de convertirse en empresas, porque nacen de necesidades reales. Además, como un adicional, son desarrollados por el usuario final mismo, tú, tú sabes por qué te frustra X problema, o por qué te aburre X rutina, y como conocedor de la frustración, puedes aportar como nadie al diseño de la solución, que mejor, que la solución la creas tu mismo.
+
+Opiniones finales.
+Siempre es el momento de experimentar con nuevas tecnologías, nuevos patrones, nuevas maneras de hacer las cosas. Afortunadamente yo comencé a trabajar en un proyecto personal cuando estaba en la universidad, no dejé que las tareas me abrumaran, mejor aún, mi proyecto personal me enseñó tanto, que la universidad fue mucho más sencilla.
+
+Lo mejor de dicho proyecto personal, es que lo desarrollé mientras estudiaba, para cuando salí de la universidad, dicho proyecto contaba con más 60 mil visitas al mes, ese proyecto me dio empleo, y gracias a ese proyecto hoy te puedo escribir. CódigoFacilito no se planeó como una empresa, se planeó como un proyecto que dos personas mantuvimos en tiempos libres.
+
+¿Cuál es tu proyecto?
